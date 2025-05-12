@@ -71,6 +71,7 @@
   background-size: 100%;
   background-repeat: no-repeat;
 }
+
   .page.flipped {
     transform: rotateY(-180deg);
     z-index: 3 !important;
